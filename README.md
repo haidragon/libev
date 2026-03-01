@@ -1,5 +1,9 @@
 # 源码分析[mettle](https://github.com/rapid7/mettle)后门工具学习 所使用的依赖库
 
+# 各种视频学习资料
+<img width="1967" height="2339" alt="securitytech cc" src="https://github.com/user-attachments/assets/5705b8f7-e762-4cbb-a6fa-b07efa176fc8" />
+
+![gzh](https://github.com/user-attachments/assets/769e49dd-3031-47e3-9105-b9acf1349325)
 
 # libev 完整技术文档体系总结
 
